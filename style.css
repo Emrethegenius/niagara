@@ -898,8 +898,8 @@ h1 {
 #modal-map {
     order: 1;
     width: 100%;
-    height: 65vh;
-    min-height: 500px;
+    height: 58vh;
+    min-height: 455px;
     border-radius: 8px;
     box-shadow: 0 2px 15px rgba(0, 0, 0, 0.2);
     flex-shrink: 0;
@@ -986,8 +986,8 @@ h1 {
 
 @media (max-height: 700px) {
     #modal-map {
-        height: 60vh;
-        min-height: 400px;
+        height: 53vh;
+        min-height: 287px;
     }
     
     .modal-info img {
@@ -1005,8 +1005,8 @@ h1 {
 
 @media (max-width: 480px) {
     #modal-map {
-        height: 55vh;
-        min-height: 350px;
+        height: 54vh;
+        min-height: 330px;
     }
     
     .modal-info {
