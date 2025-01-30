@@ -1005,8 +1005,8 @@ h1 {
 
 @media (max-width: 480px) {
     #modal-map {
-        height: 54vh;
-        min-height: 330px;
+        height: 42vh;
+        min-height: 291px;
     }
     
     .modal-info {
